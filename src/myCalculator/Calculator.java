@@ -1,3 +1,5 @@
+package myCalculator;
+
 public class Calculator {
 	
 	private int firstInput;
